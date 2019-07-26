@@ -1,0 +1,2 @@
+[27-Feb-2019 08:40:07 Etc/GMT] PHP Parse error:  syntax error, unexpected 'OR' (T_LOGICAL_OR), expecting end of file in /home/brahmf5o/public_html/food_app/application/config/config.php on line 35
+[27-Feb-2019 08:40:07 Etc/GMT] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
